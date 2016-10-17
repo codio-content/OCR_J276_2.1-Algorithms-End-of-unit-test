@@ -1,0 +1,268 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2573397292",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computational thinking is the thought processes involved in <<<formulating>>> problems and their solutions so that the <<<solutions>>> are represented in a form that can be effectively carried out by a <<<computer>>>.",
+   "tokens": {
+    "blank": [
+     "formulating",
+     "solutions",
+     "computer"
+    ],
+    "text": [
+     "Computational thinking is the thought processes involved in ",
+     0,
+     " problems and their solutions so that the ",
+     0,
+     " are represented in a form that can be effectively carried out by a ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2689179791",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "An <<<a\u001flgorithm>>> is \u001f <<<step-by-step>>> procedure for solving \u001f problem or  ca\u001frrying out \u001fa t\u001fask.\nThe instructions must be <<<unambiguous>>>. ",
+   "tokens": {
+    "blank": [
+     "a\u001flgorithm",
+     "step-by-step",
+     "unambiguous"
+    ],
+    "text": [
+     "An ",
+     0,
+     " is \u001f ",
+     0,
+     " procedure for solving \u001f problem or  ca\u001frrying out \u001fa t\u001fask.\nThe instructions must be ",
+     0,
+     ". "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1780341094",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "This means that the instructions cannot be <<<misunderstood>>> and the correct action will always be performed.\nIt must lead to the <<<expected>>> outcome each time it is run in the <<<shortest>>> possible time using the least amount of computer <<<resources>>>.",
+   "tokens": {
+    "blank": [
+     "misunderstood",
+     "expected",
+     "shortest",
+     "resources"
+    ],
+    "text": [
+     "This means that the instructions cannot be ",
+     0,
+     " and the correct action will always be performed.\nIt must lead to the ",
+     0,
+     " outcome each time it is run in the ",
+     0,
+     " possible time using the least amount of computer ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-583142833",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "When a binary search is carried out on the above list to find the number 28, state the numbers which will be selected each time.\n(Use the integer division method for selecting the mean)",
+   "points": "1",
+   "showValues": false,
+   "text": "First selection:  <<<23>>>\nSecond selection: <<<39>>>\nThird selection:  <<<28>>>",
+   "tokens": {
+    "blank": [
+     "23",
+     "39",
+     "28"
+    ],
+    "text": [
+     "First selection:  ",
+     0,
+     "\nSecond selection: ",
+     0,
+     "\nThird selection:  ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1365173668",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "Enter the results of each pass when using the bubble sort algorithm to sort the following list into ascending order.\n**Pass 1:**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<3>>> <<<7>>> <<<5>>> <<<2>>> <<<11>>> <<<4>>> <<<12>>>",
+   "tokens": {
+    "blank": [
+     "3",
+     "7",
+     "5",
+     "2",
+     "11",
+     "4",
+     "12"
+    ],
+    "text": [
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2380881499",
+  "source": {
+   "name": "Question6",
+   "showName": false,
+   "instructions": "**Pass 2:**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<3>>> <<<5>>> <<<2>>> <<<7>>> <<<4>>> <<<11>>> <<<12>>>",
+   "tokens": {
+    "blank": [
+     "3",
+     "5",
+     "2",
+     "7",
+     "4",
+     "11",
+     "12"
+    ],
+    "text": [
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2775261112",
+  "source": {
+   "name": "Question7",
+   "showName": false,
+   "instructions": "**Pass 3:**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<3>>> <<<2>>> <<<5>>> <<<4>>> <<<7>>> <<<11>>> <<<12>>>",
+   "tokens": {
+    "blank": [
+     "3",
+     "2",
+     "5",
+     "4",
+     "7",
+     "11",
+     "12"
+    ],
+    "text": [
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1591624953",
+  "source": {
+   "name": "Question8",
+   "showName": false,
+   "instructions": "**Pass 4:**",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<2>>> <<<3>>> <<<4>>> <<<5>>> <<<7>>> <<<11>>> <<<12>>>",
+   "tokens": {
+    "blank": [
+     "2",
+     "3",
+     "4",
+     "5",
+     "7",
+     "11",
+     "12"
+    ],
+    "text": [
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " ",
+     0
+    ]
+   }
+  }
+ }
+]
